@@ -13,10 +13,10 @@ This calculator takes the current price of the raw materials, the current price 
   <img src="http://i.imgur.com/IcdQOIr.png" alt="Calculator preview image"/>
 </p>
 
-Enter the price of the materials using gold as a whole number (eg: 3g 56s 4c = 3.5604).
+Enter the price of the materials using gold as a whole number (eg: *3g 56s 4c* = *3.5604*).
 
 #Features:
-* Color coded profit number indicates a positive (green) or negative (red) profit margin
+* Color coded profit number indicates a positive (green) or negative (red) profit margin.
 * Window will always stay on top of all windows on the desktop, allowing the calculator to be visible while the game is being played.
 * Can be compiled as a executable for easier use.
 

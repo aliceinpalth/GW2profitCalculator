@@ -9,6 +9,12 @@ A profit calculating program coded in Python for the online video game MMORPG "G
 
 This calculator takes the current price of the raw materials, the current price of the crafted item being sold, and the amount of the crafted item being sold. It then outputs the profit that the player will receive if they were to go forth with the crafting and selling at that time.
 
+<p align="center">
+  <img src="http://i.imgur.com/IcdQOIr.png" alt="Calculator preview image"/>
+</p>
+
+Enter the price of the materials using gold as a whole number (eg: 3g 56s 4c = 3.5604).
+
 #Features:
 * Color coded highlighted profit number indicates a positive (green) or negative (red) profit margin
 * Calculator will always stay on top of all windows on the desktop, allowing the calculator to be visible while the game is being played (prevents the annoyance of having to alt-tab to switch to the calculator, and back to the game).
